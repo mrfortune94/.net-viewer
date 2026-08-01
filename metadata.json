@@ -1,0 +1,6 @@
+{
+  "name": "Decompiler Explorer",
+  "description": "Upload a binary file to dogbolt.org and see the decompiled output from various decompilers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
